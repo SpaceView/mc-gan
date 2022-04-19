@@ -1,3 +1,5 @@
+original project is at: https://github.com/azadis/MC-GAN
+
 # MC-GAN in PyTorch
 
 <img src="https://people.eecs.berkeley.edu/~sazadi/MCGAN/datasets/ft51_1_fake_B.gif" width="90%"/>
